@@ -1,7 +1,9 @@
 # Instructions
 
-`npm install`
-`node index.js`
+```
+npm install
+node index.js
+```
 
 # Ideas of improvements
 
